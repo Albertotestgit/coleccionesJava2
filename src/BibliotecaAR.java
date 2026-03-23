@@ -2,7 +2,7 @@
 /**
  * Test de gestion de la biblioteca
  * 
- * @author (your name) 
+ * @author (Alberto) 
  * @version (a version number or a date)
  */
 import java.util.ArrayList;
